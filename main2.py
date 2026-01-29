@@ -136,9 +136,6 @@ def data_base():
         messagebox.showerror("Database Error", f"Failed to create database:\n{e}")
 
 
-# =========================
-# Helper Functions: Face User Registration
-# =========================
 def is_face_registered(userid):
     """Check if user has registered their face"""
     try:
