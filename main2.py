@@ -23,8 +23,8 @@ import mediapipe as mp
 # =========================
 DB_CONFIG = {
     "host": "localhost",
-    "user": "root",
-    "password": "sanu"
+    "user": "*USERNAME",
+    "password": "*PSSWD"
 }
 
 # Change this to your project folder path
