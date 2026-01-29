@@ -9,3 +9,8 @@ Help in attendance as in punch in and out systems and have regular databse  usin
 
 # now attendance view page
 <img width="1057" height="670" alt="image" src="https://github.com/user-attachments/assets/0a17bdad-d98b-4225-b71d-2fe4babe18c0"/>
+
+
+
+# SEE VIDEO FOR DEMONSTRATION
+https://drive.google.com/file/d/1zcNZDTKZqzzoUo1c7YqOnVBU5YuR8OJI/view?usp=sharing
